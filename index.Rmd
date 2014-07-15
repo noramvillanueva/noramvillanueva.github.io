@@ -1,6 +1,5 @@
 ---
-title: "Homepage"
-author: "Nora M. Villanueva"
+title: "Nora M. Villanueva"
 output: html_document
 ---
 
